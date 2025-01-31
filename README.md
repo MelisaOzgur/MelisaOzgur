@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Melisa Özgür</h1>
 <h3 align="center">A software engineering student from Turkey</h3>
 
+- 🌱 I’m currently learning **SwiftUI**
+
 - 📫 How to reach me **melisaozgr11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melisaozgur&show_icons=true&locale=en" alt="melisaozgur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melisaozgur&" alt="melisaozgur" /></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
