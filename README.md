@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/YCkRpnVr/Hi-2.png)
+![MasterHead](https://i.postimg.cc/YCkRpnVr/Hi-2.png)
 
 <h1 align="center">Hi 👋, I'm Melisa Özgür</h1>
 <h3 align="center">A software engineering student from Turkey</h3>
